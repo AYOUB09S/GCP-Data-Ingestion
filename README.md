@@ -53,3 +53,5 @@ Apache Beam: Used for orchestrating and processing stream and batch jobs.
 Python: Employed for script automation and GCP SDK integration.
 # Architecture Diagram
 
+![Alt text](Images/Architecteur.PNG)
+
