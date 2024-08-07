@@ -1,4 +1,4 @@
-# GCP-Data-Ingestion
+# GCP Data Ingestion with SQL using Google Cloud Dataflow
 In this project, I designed and implemented a comprehensive data ingestion and processing pipeline on the Google Cloud Platform (GCP) using the Yelp dataset. This project encompassed both real-time streaming and batch processing capabilities, leveraging multiple GCP services for a robust and scalable solution.
 
 # Data Ingestion
@@ -51,4 +51,5 @@ Visualized data using Google Data Studio, showcasing insights through graphs and
 Google Cloud Platform (GCP): Google Cloud Storage, Cloud Composer, Pub/Sub, Dataflow, BigQuery, Data Studio
 Apache Beam: Used for orchestrating and processing stream and batch jobs.
 Python: Employed for script automation and GCP SDK integration.
+# Architecture Diagram
 
